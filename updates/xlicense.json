@@ -1,0 +1,7 @@
+{
+  "updateurl": "?app=xlicense&module=xenntec&controller=license",
+  "longversion": 10806,
+  "released": 1780582516,
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xlicense/releases/tag/v1.8.6",
+  "version": "1.8.6"
+}
