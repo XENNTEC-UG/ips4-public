@@ -1,0 +1,7 @@
+{
+  "updateurl": "?app=xlicense&module=xenntec&controller=license",
+  "released": 1788686626,
+  "longversion": 10083,
+  "version": "1.7.8",
+  "releasenotes": "https://github.com/XENNTEC-UG/ips4-xdashboard/releases/tag/v1.7.8"
+}
