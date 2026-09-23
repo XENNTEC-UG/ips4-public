@@ -32,6 +32,10 @@ Go to the [Releases](https://github.com/XENNTEC-UG/ips4-public/releases) tab and
 | X Store Redirect | Store URL redirect gateway |
 | X NOWPayments Checkout | Cryptocurrency payment gateway |
 | X SEO URL | SEO-friendly URL slugs for Commerce products |
+| X PayPal F&F Checkout | PayPal Friends & Family payment gateway for IPS Commerce |
+| X Telegram Integration | Telegram login, account linking, and notifications |
+| X Notifications | Store, support, and account alerts to staff and customers |
+| X SULK | Single use license keys for Commerce products |
 
 ## Folder Guide
 
